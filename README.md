@@ -100,7 +100,6 @@ IT
 
 - 🎯 Earn Cisco CCNA
 - 🎯 Associates in Applied Sciences
-- 🎯 B2B Sales automation project
 
 ---
 

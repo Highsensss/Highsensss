@@ -159,7 +159,7 @@ Graduate
 
 <div align="center">
 
-<a href="[https://www.linkedin.com/in/braxton-wood-5a4aa431b/">
+<a href="https://www.linkedin.com/in/braxton-wood-5a4aa431b/">
 <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
 </a>
 

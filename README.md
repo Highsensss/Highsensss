@@ -19,13 +19,12 @@
 
 ## 💻 About Me
 
-- 🔭 Currently working at **Bricktown Technologies LLC**
-- 🖥️ Repairing enterprise servers, desktops, laptops, and mobile devices
+<!-- - 🔭 Currently working at **Bricktown Technologies LLC** -->
+<!-- - 🖥️ Repairing enterprise servers, desktops, laptops, and mobile devices -->
 - 🌱 Currently studying **Computer Systems & Network Engineering**
 - ⚡ Learning **Cisco Networking, Azure, PowerShell Automation & Linux**
 - 🛠️ Passionate about infrastructure, networking, virtualization and cybersecurity
 - 📍 Yukon, Oklahoma
-- 📫 **your@email.com**
 
 ---
 
@@ -35,17 +34,17 @@
 <tr>
 <td width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Highsensss&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Highsensss&theme=tokyonight&hide_border=true"/>
 
 </td>
 
 <td width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Highsensss&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </td>
 </tr>
@@ -57,7 +56,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=algolia&row=1&column=6&margin-h=15&margin-w=5&no-bg=true&no-frame=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Highsensss&theme=algolia&row=1&column=6&margin-h=15&margin-w=5&no-bg=true&no-frame=true"/>
 
 </div>
 
@@ -116,11 +115,8 @@ IT
 # 🚀 Current Goals
 
 - 🎯 Earn Cisco CCNA
-- ☁️ Learn Microsoft Azure
-- 🐧 Master Linux Administration
-- ⚙️ Build PowerShell Automation Projects
-- 🏠 Build a Professional Homelab
-- 🔒 Study Cybersecurity Fundamentals
+- 🎯 Associates in Applied Sciences
+- 🎯 B2B Sales automation project
 
 ---
 
@@ -130,7 +126,7 @@ IT
 
 **Warehouse Management & Technician**
 
-**July 2025 - Present**
+**June 2025 - July 2026**
 
 - Diagnose and repair enterprise servers
 - Repair desktops, laptops and mobile devices
@@ -171,7 +167,7 @@ Graduate
 
 # 📈 Activity Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Highsensss&theme=tokyo-night&hide_border=true"/>
 
 ---
 

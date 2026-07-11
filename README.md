@@ -65,7 +65,7 @@
 
 # 💼 Experience
 
-## Bricktown Technologies LLC
+<a href="https://www.bricktowntech.com/">Bricktown Technologies LLC</a>
 
 **Warehouse Management & Technician**
 

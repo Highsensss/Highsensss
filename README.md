@@ -56,46 +56,6 @@
 
 ---
 
-# 🛠 Skills
-
-```text
-Networking
-├── TCP/IP
-├── DHCP
-├── DNS
-├── Routing
-├── Switching
-└── Network Troubleshooting
-
-Operating Systems
-├── Windows
-├── Linux
-└── macOS
-
-Hardware
-├── Enterprise Servers
-├── Workstations
-├── Laptops
-├── Mobile Devices
-├── Diagnostics
-└── Soldering
-
-Programming
-├── HTML5
-├── CSS3
-├── JavaScript
-└── PowerShell
-
-IT
-├── Hardware Repair
-├── Imaging
-├── Remote Support
-├── Asset Management
-└── Warehouse Auditing
-```
-
----
-
 # 🚀 Current Goals
 
 - 🎯 Earn Cisco CCNA

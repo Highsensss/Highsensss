@@ -32,9 +32,6 @@
 
 <table>
 <tr>
-<td width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Highsensss&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
 <br>
 
@@ -42,25 +39,12 @@
 
 </td>
 
-<td width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Highsensss&layout=compact&theme=tokyonight&hide_border=true"/>
-
 </td>
 </tr>
 </table>
 
 ---
 
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Highsensss&theme=algolia&row=1&column=6&margin-h=15&margin-w=5&no-bg=true&no-frame=true"/>
-
-</div>
-
----
 
 # ⚡ Technologies
 

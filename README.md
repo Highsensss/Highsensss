@@ -84,7 +84,7 @@
 
 ### Oklahoma State University
 
-Network Engineering
+Computer Information Systems
 
 2026 - Present
 
@@ -92,7 +92,7 @@ Network Engineering
 
 ### Canadian Valley Technology Center
 
-Computer Information Systems
+Network Engineering
 
 2025 - 2026
 

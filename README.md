@@ -24,7 +24,7 @@
 - 🌱 Currently studying **Computer Systems & Network Engineering**
 - ⚡ Learning **Cisco Networking, Azure, PowerShell Automation & Linux**
 - 🛠️ Passionate about infrastructure, networking, virtualization and cybersecurity
-- 📍 Yukon, Oklahoma
+- 📍 Oklahoma City, OK
 
 ---
 

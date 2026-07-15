@@ -129,7 +129,6 @@ Graduate
 
 <a href="https://www.instagram.com/h1ghsens/?hl=en">
 <img src="https://skillicons.dev/icons?i=instagram" height="50"/>
-  <p>My Personal Instagram</p>
 </a>
 
 </div>
